@@ -11,11 +11,11 @@
 <div align="center">
    <p>Desafio tem como principal objetivo a correção dos bugs no layout, utilizando os conhecimentos adquiridos com as tecnologias de HTML e CSS.</p>
 </div>
-  <p>Layout antes dos ajustes:</p>
+  <h3 align="center">Layout antes dos ajustes:</h3>
        
   <img alt="logo" title="#logo" src="images/img-layout-bug.png"/>
   
-  <p>Layout depois dos ajustes:</p>
+  <h3 align="center">Layout depois dos ajustes:</h3>
        
   <img alt="logo" title="#logo" src="images/img-layout-corrigido.png"/>
 
