@@ -13,11 +13,11 @@
 </div>
   <p>Layout antes dos ajustes:</p>
        
-  <img alt="logo" title="#logo" src="./src/images/img-layout-bug.png"/>
+  <img alt="logo" title="#logo" src="images/img-layout-bug.png"/>
   
   <p>Layout depois dos ajustes:</p>
        
-  <img alt="logo" title="#logo" src="./src/images/img-layout-corrigido.png"/>
+  <img alt="logo" title="#logo" src="images/img-layout-corrigido.png"/>
 
 
 ## :rocket: Tecnologias
